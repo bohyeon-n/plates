@@ -1,0 +1,44 @@
+{
+  "stores" : [
+    {
+    "id": 1,
+    "title": "도레도레",
+    "images": ["https://s3.ap-northeast-2.amazonaws.com/images.brandsites/common-ground/uploads/00000000440.JPG","https://s3.ap-northeast-2.amazonaws.com/images.brandsites/common-ground/uploads/00000000441.jpg","https://s3.ap-northeast-2.amazonaws.com/images.brandsites/common-ground/uploads/00000000440.JPG"],
+    "desc": ["DESSERT CAFÉ"," 도레도레 DORE DORE","프랑스어로 '금빛의' 라는 뜻을 지니고있는 <도레도레>는 강화도의 따뜻한 햇살을 담은 공간에서 시작되었습니다.", "삶, 자연, 사랑이 만나 따뜻한 이야기를 만들어 나가는 공간에서 에스프레소 부문 은상을 수상한 맛있는 원두로 만드는 커피와 우유 100% 생크림과 필라델피아크림 치즈 등 믿을 수 있는 건강한 재료로 만드는 세상에서 가장 독특하고 예쁜 케이크를 제공합니다.", "다양하고 포토제닉한 케이크와 함께 <도레도레>만의 즐거운, 맛있는, 생동감 넘치는, 따사로운 금빛 여유를 커먼그라운드에서 만날 수 있습니다.", "LAST ORDER : 21시 50분"],
+    "url": "http://www.doredore.co.kr"
+
+  },
+    {
+    "id": 2,
+    "title": "도레도레",
+    "images": ["https://s3.ap-northeast-2.amazonaws.com/images.brandsites/common-ground/uploads/00000000440.JPG","https://s3.ap-northeast-2.amazonaws.com/images.brandsites/common-ground/uploads/00000000441.jpg"],
+    "desc": ["DESSERT CAFÉ"," 도레도레 DORE DORE","프랑스어로 '금빛의' 라는 뜻을 지니고있는 <도레도레>는 강화도의 따뜻한 햇살을 담은 공간에서 시작되었습니다.", "삶, 자연, 사랑이 만나 따뜻한 이야기를 만들어 나가는 공간에서 에스프레소 부문 은상을 수상한 맛있는 원두로 만드는 커피와 우유 100% 생크림과 필라델피아크림 치즈 등 믿을 수 있는 건강한 재료로 만드는 세상에서 가장 독특하고 예쁜 케이크를 제공합니다.", "다양하고 포토제닉한 케이크와 함께 <도레도레>만의 즐거운, 맛있는, 생동감 넘치는, 따사로운 금빛 여유를 커먼그라운드에서 만날 수 있습니다.", "LAST ORDER : 21시 50분"],
+    "url": "http://www.doredore.co.kr"
+
+  },
+    {
+    "id": 3,
+    "title": "도레도레",
+    "images": ["https://s3.ap-northeast-2.amazonaws.com/images.brandsites/common-ground/uploads/00000000440.JPG","https://s3.ap-northeast-2.amazonaws.com/images.brandsites/common-ground/uploads/00000000441.jpg"],
+    "desc": ["DESSERT CAFÉ"," 도레도레 DORE DORE","프랑스어로 '금빛의' 라는 뜻을 지니고있는 <도레도레>는 강화도의 따뜻한 햇살을 담은 공간에서 시작되었습니다.", "삶, 자연, 사랑이 만나 따뜻한 이야기를 만들어 나가는 공간에서 에스프레소 부문 은상을 수상한 맛있는 원두로 만드는 커피와 우유 100% 생크림과 필라델피아크림 치즈 등 믿을 수 있는 건강한 재료로 만드는 세상에서 가장 독특하고 예쁜 케이크를 제공합니다.", "다양하고 포토제닉한 케이크와 함께 <도레도레>만의 즐거운, 맛있는, 생동감 넘치는, 따사로운 금빛 여유를 커먼그라운드에서 만날 수 있습니다.", "LAST ORDER : 21시 50분"],
+    "url": "http://www.doredore.co.kr"
+
+  },
+    {
+    "id": 4,
+    "title": "도레도레",
+    "images": ["https://s3.ap-northeast-2.amazonaws.com/images.brandsites/common-ground/uploads/00000000440.JPG","https://s3.ap-northeast-2.amazonaws.com/images.brandsites/common-ground/uploads/00000000441.jpg"],
+    "desc": ["DESSERT CAFÉ"," 도레도레 DORE DORE","프랑스어로 '금빛의' 라는 뜻을 지니고있는 <도레도레>는 강화도의 따뜻한 햇살을 담은 공간에서 시작되었습니다.", "삶, 자연, 사랑이 만나 따뜻한 이야기를 만들어 나가는 공간에서 에스프레소 부문 은상을 수상한 맛있는 원두로 만드는 커피와 우유 100% 생크림과 필라델피아크림 치즈 등 믿을 수 있는 건강한 재료로 만드는 세상에서 가장 독특하고 예쁜 케이크를 제공합니다.", "다양하고 포토제닉한 케이크와 함께 <도레도레>만의 즐거운, 맛있는, 생동감 넘치는, 따사로운 금빛 여유를 커먼그라운드에서 만날 수 있습니다.", "LAST ORDER : 21시 50분"],
+    "url": "http://www.doredore.co.kr"
+
+  },
+    {
+    "id": 5,
+    "title": "도레도레",
+    "images": ["https://s3.ap-northeast-2.amazonaws.com/images.brandsites/common-ground/uploads/00000000440.JPG","https://s3.ap-northeast-2.amazonaws.com/images.brandsites/common-ground/uploads/00000000441.jpg"],
+    "desc": ["DESSERT CAFÉ"," 도레도레 DORE DORE","프랑스어로 '금빛의' 라는 뜻을 지니고있는 <도레도레>는 강화도의 따뜻한 햇살을 담은 공간에서 시작되었습니다.", "삶, 자연, 사랑이 만나 따뜻한 이야기를 만들어 나가는 공간에서 에스프레소 부문 은상을 수상한 맛있는 원두로 만드는 커피와 우유 100% 생크림과 필라델피아크림 치즈 등 믿을 수 있는 건강한 재료로 만드는 세상에서 가장 독특하고 예쁜 케이크를 제공합니다.", "다양하고 포토제닉한 케이크와 함께 <도레도레>만의 즐거운, 맛있는, 생동감 넘치는, 따사로운 금빛 여유를 커먼그라운드에서 만날 수 있습니다.", "LAST ORDER : 21시 50분"],
+    "url": "http://www.doredore.co.kr"
+
+  }
+]
+}
