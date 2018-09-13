@@ -6,17 +6,23 @@ import Link from "next/link";
 import PopupComponent from "./PopupComponent";
 
 class ItemComponent extends React.Component {
+  state = {
+    show: false
+  };
   showModal = e => {
-    e.preventDefault();
-    const { store } = this.props;
-
-    Router.push(`/store?id=${store.id}`);
+    this.setState({ show: true });
+  };
+  dismiss = e => {
+    this.setState({ show: false });
   };
   render() {
     const { store, url } = this.props;
 
     return (
       <Col xs={24} md={12} lg={8} xl={6}>
+        {this.state.show ? (
+          <PopupComponent store={store} dismiss={this.dismiss} />
+        ) : null}
         <style jsx>
           {`
             .item {
@@ -25,17 +31,14 @@ class ItemComponent extends React.Component {
             }
           `}
         </style>
-
-        <Link prefetch href={`/store?id=${store.id}`} as={`/store/${store.id}`}>
-          <div className="item">
-            <Card
-              hoverable
-              cover={<img alt={`${store.title}이미지`} src={store.images[0]} />}
-            >
-              <Meta title={store.title} />
-            </Card>
-          </div>
-        </Link>
+        <div className="item" onClick={this.showModal}>
+          <Card
+            hoverable
+            cover={<img alt={`${store.title}이미지`} src={store.images[0]} />}
+          >
+            <Meta title={store.title} />
+          </Card>
+        </div>
       </Col>
     );
   }

@@ -22,9 +22,6 @@ class MainPage extends React.Component {
     return (
       <LayoutComponent title={"AWESOME FOOD STORE"}>
         <ListComponent stores={stores} />
-        {this.props.url.query.id && (
-          <PopupComponent store={stores[this.props.url.query.id]} />
-        )}
       </LayoutComponent>
     );
   }

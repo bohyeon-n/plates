@@ -2,11 +2,8 @@ import { Modal, Button, Carousel, Col, Row } from "antd";
 import axios from "axios";
 import Router from "next/router";
 class PopupComponent extends React.Component {
-  dismiss = () => {
-    Router.push(`/`);
-  };
   render() {
-    const { store } = this.props;
+    const { store, dismiss } = this.props;
     return (
       <Modal
         visible={true}
@@ -14,7 +11,7 @@ class PopupComponent extends React.Component {
         footer={null}
         width="90vw"
         style={{ top: 20 }}
-        onCancel={this.dismiss}
+        onCancel={dismiss}
       >
         <style jsx>
           {`
